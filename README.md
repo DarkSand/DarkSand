@@ -1,1 +1,1 @@
-![bg](https://i.imgur.com/H37kxPH.jpeg){:height="40%" width="40%"}
+![bg](https://i.imgur.com/H37kxPH.jpeg){:height="10%" width="10%"}
