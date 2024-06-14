@@ -1,7 +1,7 @@
 <div align=center>
 <img src ="https://github-readme-stats.vercel.app/api?username=darksand&show_icons=true&hide_border=true&theme=graywhite&include_all_commits=true&count_private=true">
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=darksand&layout=compact&hide_border=true&langs_count=10&theme=graywhite&include_all_commits=true&count_private=true">
-<img src="https://i.imgur.com/H37kxPH.jpeg" width="30%"><p align="center">
+<img src="[https://i.imgur.com/H37kxPH.jpeg](https://i.imgur.com/Fj3GhU6.jpeg)" width="30%"><p align="center">
 </p>
 </div>
 
